@@ -8,7 +8,7 @@ da Computação na mesma instituição e cursando uma especialização em Engenh
 Tenho conhecimento abrangente em diversas linguagens de programação, com especializa-
 ção em tecnologias voltadas para o desenvolvimento Full Stack. Minha paixão
 pela área de tecnologia me impulsiona a buscar constantemente novos aprendiza-
-dos, que me aprimoram e acompanham as últimas tendências do setor..
+dos, que me aprimoram e acompanham as últimas tendências do setor.
 
 <p align="center">
     <a href="https://davihugo.github.io/meu-portfolio/">
