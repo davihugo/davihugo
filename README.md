@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Davi Hugo, tenho 23 anos e sou natural do Maranhão. Sou formado em Ciência e Tecnologia pela Universidade Federal do Maranhão
+Me chamo Davi Hugo, tenho 24 anos e sou natural do Maranhão. Sou formado em Ciência e Tecnologia pela Universidade Federal do Maranhão
 (UFMA) e atualmente estou cursando a segunda graduação, em Engenharia
 da Computação na mesma instituição e cursando uma especialização em Engenharia de Software.
 Tenho conhecimento abrangente em diversas linguagens de programação, com especializa-
