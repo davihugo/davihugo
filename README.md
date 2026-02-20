@@ -3,12 +3,9 @@
 **`Desenvolvedor FullStack`**
 
 Me chamo Davi Hugo, tenho 24 anos e sou natural do Maranhão. Sou formado em Ciência e Tecnologia pela Universidade Federal do Maranhão
-(UFMA) e atualmente estou cursando a segunda graduação, em Engenharia
-da Computação na mesma instituição e cursando uma especialização em Engenharia de Software.
-Tenho conhecimento abrangente em diversas linguagens de programação, com especializa-
-ção em tecnologias voltadas para o desenvolvimento Full Stack. Minha paixão
-pela área de tecnologia me impulsiona a buscar constantemente novos aprendiza-
-dos, que me aprimoram e acompanham as últimas tendências do setor.
+(UFMA) e atualmente estou cursando a segunda graduação, em Engenharia da Computação na mesma instituição e cursando uma especialização em Engenharia de Software.
+Tenho conhecimento abrangente em diversas linguagens de programação, com especialização em tecnologias voltadas para o desenvolvimento Full Stack. Minha paixão
+pela área de tecnologia me impulsiona a buscar constantemente novos aprendizados, que me aprimoram e acompanham as últimas tendências do setor.
 
 <p align="center">
     <a href="https://davihugo.github.io/meu-portfolio/">
