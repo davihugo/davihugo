@@ -23,7 +23,6 @@ pela área de tecnologia me impulsiona a buscar constantemente novos aprendizado
         />
     </a>
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davihugo&layout=compact)
 
 ---
 
